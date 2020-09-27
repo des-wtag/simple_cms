@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  presence: MyString
+  'true': MyString
+  text: MyText
+  'null': 
+
+two:
+  title: MyString
+  presence: MyString
+  'true': MyString
+  text: MyText
+  'null': 
